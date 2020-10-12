@@ -1,6 +1,6 @@
 # Pacman Redux
 
-This is a Game Boy Advance game made by Hemang Dash for CS 2110 in Summer 2020.
+This is a Game Boy Advance game made by Hemang Dash for CS 2110 (Computer Organization and Programming) in Summer 2020.
 
 ### Installation
     Run the following command in the directory of PacmanRedux:
